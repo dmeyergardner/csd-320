@@ -1,0 +1,3 @@
+PasswordChecker.PasswordCheck
+PasswordChecker.Password
+PasswordChecker.Check
